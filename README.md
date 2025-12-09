@@ -289,33 +289,33 @@ Building foundational data engineering skills through practical projects and con
 <div style="background: #0a0a0a; padding: 1.5rem; border-radius: 8px; border: 1px solid #1a1a1a;">
 <h4 style="color: #3498db; margin-top: 0;">🖥️ SOFTWARE DEVELOPMENT</h4>
 <ul style="color: #ffffff; list-style: none; padding-left: 0;">
-<li>▸ Junior Java Developer</li>
-<li>▸ Backend Developer (Spring Boot)</li>
-<li>▸ Software Engineering Intern</li>
-<li>▸ Full-Stack Developer</li>
-<li>▸ API Developer</li>
+<li> Junior Java Developer</li>
+<li> Backend Developer (Spring Boot)</li>
+<li> Software Engineering Intern</li>
+<li> Full-Stack Developer</li>
+<li> API Developer</li>
 </ul>
 </div>
 
 <div style="background: #0a0a0a; padding: 1.5rem; border-radius: 8px; border: 1px solid #1a1a1a;">
 <h4 style="color: #3498db; margin-top: 0;">📊 DATA ENGINEERING</h4>
 <ul style="color: #ffffff; list-style: none; padding-left: 0;">
-<li>▸ Junior Data Engineer</li>
-<li>▸ Data Engineering Intern</li>
-<li>▸ ETL Developer</li>
-<li>▸ Data Analyst (Technical)</li>
-<li>▸ Business Intelligence Roles</li>
+<li> Junior Data Engineer</li>
+<li> Data Engineering Intern</li>
+<li> ETL Developer</li>
+<li> Data Analyst (Technical)</li>
+<li> Business Intelligence Roles</li>
 </ul>
 </div>
 
 <div style="background: #0a0a0a; padding: 1.5rem; border-radius: 8px; border: 1px solid #1a1a1a;">
 <h4 style="color: #3498db; margin-top: 0;">📍 PREFERENCES</h4>
 <ul style="color: #ffffff; list-style: none; padding-left: 0;">
-<li>▸ Johannesburg, SA (Primary)</li>
-<li>▸ Remote Positions (Open)</li>
-<li>▸ Full-time or Contract</li>
-<li>▸ Immediate Availability</li>
-<li>▸ Learning-Focused Environments</li>
+<li> Johannesburg, SA (Primary)</li>
+<li> Remote Positions (Open)</li>
+<li> Full-time or Contract</li>
+<li> Immediate Availability</li>
+<li> Learning-Focused Environments</li>
 </ul>
 </div>
 
@@ -356,13 +356,13 @@ Building foundational data engineering skills through practical projects and con
 
 ### **📬 Contact Details**
 <div style="text-align: left; max-width: 600px; margin: 0 auto; color: #c9d1d9;">
-• **Email:** [muzisitsha@gmail.com](mailto:muzisitsha@gmail.com) - Best for formal opportunities<br>
-• **LinkedIn:** [Muziwakhe Sitsha](https://www.linkedin.com/in/muziwakhe-sitsha-31478b375) - Professional networking<br>
-• **Phone:** [+27 61 325 3665](tel:+27613253665) - Scheduled interviews<br>
-• **Portfolio:** [Live Website](https://personal-portfolio1-delta.vercel.app/) - View my work<br>
-• **Location:** Johannesburg, South Africa<br>
-• **Availability:** Immediate for suitable roles<br>
-• **Response Time:** Within 24 hours
+• Email: [muzisitsha@gmail.com](mailto:muzisitsha@gmail.com) - Best for formal opportunities<br>
+• LinkedIn: [Muziwakhe Sitsha](https://www.linkedin.com/in/muziwakhe-sitsha-31478b375) - Professional networking<br>
+• Phone: [+27 61 325 3665](tel:+27613253665) - Scheduled interviews<br>
+• Portfolio: [Live Website](https://personal-portfolio1-delta.vercel.app/) - View my work<br>
+• Location: Johannesburg, South Africa<br>
+• Availability: Immediate for suitable roles<br>
+• Response Time: Within 24 hours
 </div>
 
 </div>
