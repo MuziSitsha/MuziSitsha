@@ -1,224 +1,299 @@
-<div align="center">
-  
-# 👨‍💻 Muziwakhe Sitsha
-### Software & Data Engineer | Java | Spring Boot | Big Data | Cloud Technologies
+<div align="center" style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 2rem; border-radius: 10px;">
 
-[![Email](https://img.shields.io/badge/Email-muzisitsha%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:muzisitsha@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muziwakhe-sitsha-31478b375)
-[![Phone](https://img.shields.io/badge/Phone-061%20325%203665-green?style=flat-square&logo=whatsapp)](tel:+27613253665)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/MuziSitsha)
-![Profile Views](https://komarev.com/ghpvc/?username=MuziSitsha&color=blue&style=flat-square)
-[![Data Engineering](https://img.shields.io/badge/Data_Engineering-Portfolio-orange?style=flat-square&logo=apachespark)](https://github.com/MuziSitsha)
+<!-- Professional Header with Black & Blue Theme -->
+<h1 style="color: #58a6ff; font-size: 2.5rem; margin-bottom: 0.5rem;"> Muziwakhe Sitsha</h1>
+<h3 style="color: #8b949e; font-weight: 400; margin-top: 0;">Software Developer | Java | Spring Boot | Data Engineer | ETL Pipelines</h3>
 
-*Building scalable systems and data pipelines that transform raw data into actionable insights*
-  
+<!-- Contact Badges with Blue Accents -->
+<div style="margin: 1.5rem 0;">
+  <a href="mailto:muzisitsha@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/📧_Email-muzisitsha@gmail.com-3498DB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 0.3rem;">
+  </a>
+  <a href="https://www.linkedin.com/in/muziwakhe-sitsha-31478b375" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 0.3rem;">
+  </a>
+  <a href="tel:+27613253665" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/📱_Phone-0613253665-27AE60?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" style="margin: 0.3rem;">
+  </a>
+  <a href="https://github.com/MuziSitsha" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/💻_GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 0.3rem;">
+  </a>
+</div>
+
 </div>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 **ABOUT ME**
 
-I'm a **Software Engineer** with a growing specialization in **Data Engineering**, based in South Africa. With a strong foundation in Java, Spring Boot, and enterprise application development, I'm now expanding my expertise into big data processing, ETL pipelines, and cloud-based data solutions.
+<div style="background: #0d1117; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #3498db; margin: 1rem 0;">
+  
+I'm a passionate **Software Developer** specializing in **Java backend development** with Spring Boot, based in Johannesburg, South Africa. I'm actively expanding my skills into **Data Engineering** to build comprehensive, scalable technical solutions.
 
-**My unique value proposition:** Combining robust software engineering principles with emerging data engineering skills to build reliable, scalable systems that handle both transactional and analytical workloads.
+**💡 My Technical Philosophy:**  
+*"Clean code, efficient systems, and continuous learning are the foundations of great software engineering."*
 
-### **Core Competencies:**
-- **Software Development:** Java, Spring Boot, Microservices, REST APIs, System Design
-- **Data Engineering:** ETL Pipelines, Apache Spark, SQL Optimization, Data Modeling
-- **Full-Stack Capabilities:** React, JavaScript, Database Design, API Development
-- **DevOps & Cloud:** Docker, AWS/GCP, CI/CD, Infrastructure as Code
+</div>
+
+### **🎯 Core Competencies**
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin: 1.5rem 0;">
+
+<div style="background: #161b22; padding: 1rem; border-radius: 8px; border: 1px solid #30363d;">
+<h4 style="color: #58a6ff; margin-top: 0;">🖥️ Software Development</h4>
+<ul style="color: #c9d1d9;">
+<li>Java & Spring Boot Applications</li>
+<li>RESTful API Design & Development</li>
+<li>Database Design & Optimization</li>
+<li>Object-Oriented Programming</li>
+</ul>
+</div>
+
+<div style="background: #161b22; padding: 1rem; border-radius: 8px; border: 1px solid #30363d;">
+<h4 style="color: #58a6ff; margin-top: 0;">📊 Expanding Skills</h4>
+<ul style="color: #c9d1d9;">
+<li>Data Engineering Principles</li>
+<li>Python for Data Processing</li>
+<li>Cloud Infrastructure (AWS)</li>
+<li>ETL Pipeline Design</li>
+</ul>
+</div>
+
+<div style="background: #161b22; padding: 1rem; border-radius: 8px; border: 1px solid #30363d;">
+<h4 style="color: #58a6ff; margin-top: 0;">🚀 Professional Attributes</h4>
+<ul style="color: #c9d1d9;">
+<li>Problem-Solving Mindset</li>
+<li>Continuous Learning</li>
+<li>Attention to Detail</li>
+<li>Collaborative Team Player</li>
+</ul>
+</div>
+
+</div>
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ **TECHNICAL STACK**
 
-### **💼 Software Engineering**
+<div align="center">
+
+### **🟦 BACKEND DEVELOPMENT**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### **🔷 FRONTEND & WEB**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### **📊 Data Engineering**
+### **🔵 DATA & TOOLS**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### **☁️ Cloud & DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![Muzi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuziSitsha&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&include_all_commits=true&hide=issues)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuziSitsha&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&langs_count=10&exclude_repo=MuziSitsha)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MuziSitsha&theme=dark&hide_border=true&background=0D1117&dates=FFFFFF)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
 ---
 
-## 📁 Project Portfolio
+## 📊 **GITHUB ANALYTICS**
 
-### **🔬 Data Engineering Projects**
+<div style="background: #0d1117; padding: 2rem; border-radius: 10px; border: 1px solid #30363d; margin: 2rem 0;">
 
-#### **📊 ETL Pipeline Framework** *(In Progress)*
-**Python | Apache Airflow | PostgreSQL | Docker**
-> A modular ETL framework for batch processing with data quality checks and monitoring.
-- 🔄 **Orchestrated workflow management with Airflow**
-- ✅ **Data validation and quality assurance**
-- 📈 **Performance monitoring and logging**
-- 🐳 **Containerized deployment with Docker**
-- [**View Repository →**](#)
+<h3 style="color: #58a6ff; text-align: center; margin-top: 0;">📈 DEVELOPMENT ACTIVITY</h3>
 
-#### **🚀 Real-time Data Processing** *(Planned)*
-**Apache Kafka | Spark Streaming | Cassandra**
-> Real-time data streaming pipeline for IoT sensor data.
-- ⚡ **Real-time ingestion with Kafka**
-- 🚀 **Stream processing with Spark Structured Streaming**
-- 💾 **Time-series data storage in Cassandra**
-- 📊 **Real-time analytics dashboard**
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem;">
 
-### **💼 Software Engineering Projects**
+<div style="background: #161b22; padding: 1.5rem; border-radius: 8px; text-align: center;">
+<h4 style="color: #8b949e; margin-top: 0;">📁 REPOSITORY STATS</h4>
+<div style="font-size: 2rem; color: #58a6ff; font-weight: bold;">3</div>
+<p style="color: #c9d1d9; margin: 0.5rem 0;">Public Repositories</p>
+<div style="font-size: 1.2rem; color: #3fb950;">Java</div>
+<p style="color: #c9d1d9; margin: 0.5rem 0;">Primary Language</p>
+</div>
 
-#### **🏥 Medical Record Management System**
-**Java | Spring Boot | MySQL | React**
-> A comprehensive medical record system with patient management and secure data handling.
-- 🔐 **JWT Authentication & Role-based Authorization**
-- 📊 **RESTful APIs with OpenAPI documentation**
-- 🏥 **Patient record management with audit trails**
-- 📅 **Automated appointment scheduling**
-- [**View Repository →**](https://github.com/MuziSitsha/Medical-Record-System)
+<div style="background: #161b22; padding: 1.5rem; border-radius: 8px; text-align: center;">
+<h4 style="color: #8b949e; margin-top: 0;">⚡ ACTIVITY LEVEL</h4>
+<div style="font-size: 2rem; color: #f0883e; font-weight: bold;">Active</div>
+<p style="color: #c9d1d9; margin: 0.5rem 0;">Development Status</p>
+<div style="font-size: 1.2rem; color: #3fb950;">Regular</div>
+<p style="color: #c9d1d9; margin: 0.5rem 0;">Commit Frequency</p>
+</div>
 
-#### **🎓 Student Management System**
-**Java | Spring Boot | Hibernate | Thymeleaf**
-> Enterprise-level educational platform with multi-role access and analytics.
-- 👨‍🎓 **Student lifecycle management**
-- 📚 **Course enrollment and grading system**
-- 📈 **Performance analytics dashboard**
-- 👨‍🏫 **Role-based access control**
-- [**View Repository →**](https://github.com/MuziSitsha/Student-Management-System)
-
----
-
-## 🚀 Career Objectives
-
-### **Immediate Goals:**
-- Secure a **Software Engineering role** with opportunities to work on data-intensive applications
-- Transition into a **Junior Data Engineer position** with mentorship support
-- Join a team working on **scalable backend systems** or **data infrastructure**
-- Contribute to **open-source data engineering projects**
-
-### **Long-term Vision:**
-- Become a **Senior Data Engineer** specializing in cloud-based big data solutions
-- Lead the design and implementation of **enterprise data platforms**
-- Mentor aspiring software developers transitioning into data engineering
-- Contribute to the **data engineering community** in Africa
-
----
-
-## 🎯 Open To Opportunities
-
-### **💻 Software Development Roles:**
-- **Backend Engineer** (Java, Spring Boot, Microservices)
-- **Full-Stack Developer** (Java + React/JavaScript)
-- **Software Engineer** (Enterprise Applications)
-- **API Developer** (RESTful Services, Integration)
-- **System Integration Specialist**
-
-### **📊 Data Engineering Roles:**
-- **Junior Data Engineer**
-- **ETL Developer**
-- **Data Pipeline Engineer**
-- **Big Data Developer** (Spark, Hadoop)
-- **Cloud Data Engineer** (AWS/GCP)
-
-### **🤝 Collaboration Opportunities:**
-- **Open-source contributions**
-- **Technical project collaborations**
-- **Freelance/Contract work**
-- **Startup technical partnerships**
-- **Mentorship programs**
-
-### **Available for:**
-- **Full-time positions** (On-site, Remote, or Hybrid)
-- **Contract/Consulting work**
-- **Internships** with growth potential
-- **Part-time opportunities** while upskilling
-
----
-
-## 📚 Learning Path & Certifications
-
-### **Currently Studying:**
-- **Data Engineering Specialization** (Coursera/Udemy)
-- **Apache Spark & PySpark** for big data processing
-- **Cloud Data Engineering** (AWS/GCP)
-- **Data Warehousing & ETL Best Practices**
-
-### **Certifications (Planned/Pursuing):**
-- [ ] AWS Certified Data Analytics - Specialty
-- [ ] Google Cloud Professional Data Engineer
-- [ ] Databricks Certified Associate Developer for Apache Spark
-- [ ] Confluent Certified Developer for Apache Kafka
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-| Contact Method | Details | Best For |
-|---------------|---------|----------|
-| **📧 Email** | [muzisitsha@gmail.com](mailto:muzisitsha@gmail.com) | Formal inquiries, job opportunities |
-| **💼 LinkedIn** | [Muziwakhe Sitsha](https://www.linkedin.com/in/muziwakhe-sitsha-31478b375) | Professional networking |
-| **📱 Phone/WhatsApp** | [+27 61 325 3665](tel:+27613253665) | Scheduled calls, interviews |
-| **🐙 GitHub** | [@MuziSitsha](https://github.com/MuziSitsha) | Code review, collaborations |
+<div style="background: #161b22; padding: 1.5rem; border-radius: 8px; text-align: center;">
+<h4 style="color: #8b949e; margin-top: 0;">🎯 CURRENT FOCUS</h4>
+<div style="color: #c9d1d9; text-align: left;">
+• Project Improvements<br>
+• Data Engineering<br>
+• Portfolio Expansion<br>
+• Tech Exploration
+</div>
+</div>
 
 </div>
 
-### **📞 Contact Protocol:**
-- **Email:** Preferred for initial contact and detailed discussions
-- **LinkedIn:** Great for professional networking and recruiter outreach
-- **Phone:** Available for scheduled interviews (please email to arrange)
-- **Response Time:** Within 24-48 hours for all professional inquiries
-
-**Phone availability:** Monday-Friday, 9 AM - 5 PM SAST  
-**Location:** Johannesburg, South Africa (Open to Remote & Relocation)
+</div>
 
 ---
 
-<div align="center">
-  
-## 🏆 GitHub Trophies
+## 🏗️ **PROJECT PORTFOLIO**
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MuziSitsha&theme=radical&no-frame=true&margin-w=15&row=2&column=4)
+### **🏥 Medical Record Management System**
+<div style="background: #161b22; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #3498db; margin: 1rem 0;">
+  
+**Tech Stack:** `Java` `Spring Boot` `MySQL` `React` `REST API`
+
+A comprehensive healthcare system for managing patient records, appointments, and medical history with enterprise-grade security.
+
+**✨ Key Features:**
+- 🔐 JWT Authentication & Role-based Access Control
+- 📅 Automated Appointment Scheduling System
+- 🏥 Complete Patient Record Management
+- 📊 Medical Reporting & Analytics Dashboard
+- 🔔 Email & SMS Notifications
+- 💉 Digital Prescription Management
+
+**🔗 [View Repository](https://github.com/MuziSitsha/Medical-Record-System)**
+
+</div>
+
+### **🎓 Student Management System**
+<div style="background: #161b22; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #3498db; margin: 1rem 0;">
+  
+**Tech Stack:** `Java` `Spring Boot` `Hibernate` `Thymeleaf` `MySQL`
+
+Enterprise-level educational platform for academic institutions to manage students, courses, and administrative operations.
+
+**✨ Key Features:**
+- 👨‍🎓 Multi-role System (Admin/Teacher/Student)
+- 📚 Course Enrollment & Management
+- 📊 Automated Grade Calculation & Reporting
+- 🏫 Faculty Dashboard & Tools
+- 📈 Performance Analytics
+- 💳 Fee Management System
+
+**🔗 [View Repository](https://github.com/MuziSitsha/Student-Management-System)**
+
+</div>
+
+### **📊 Data Engineering Learning Projects**
+<div style="background: #161b22; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #3498db; margin: 1rem 0;">
+  
+**Tech Stack:** `Python` `SQL` `Docker` `AWS`
+
+Building foundational data engineering skills through practical projects and continuous learning.
+
+**📚 Current Learning Path:**
+1. **Python Data Analysis** - Pandas, NumPy, data manipulation
+2. **SQL Mastery** - Complex queries, optimization, database design
+3. **ETL Pipeline Development** - Data extraction, transformation, loading
+4. **Cloud Data Solutions** - AWS services for data processing
+5. **Big Data Fundamentals** - Distributed processing concepts
+
+**🎯 Learning Objectives:**
+- Design efficient data pipelines
+- Process and analyze large datasets
+- Build scalable data infrastructure
+- Implement data quality checks
+
+</div>
 
 ---
 
-### **💡 "Data is a precious thing and will last longer than the systems themselves." - Tim Berners-Lee**
-  
-⭐ *Exploring the intersection of software engineering and data systems. Always open to connecting and collaborating!*
-  
+## 🎯 **CAREER OPPORTUNITIES**
+
+<div style="background: #0d1117; padding: 2rem; border-radius: 10px; margin: 2rem 0;">
+
+<h3 style="color: #58a6ff; text-align: center;">💼 OPEN TO ROLES</h3>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin-top: 1.5rem;">
+
+<div style="background: #161b22; padding: 1.5rem; border-radius: 8px;">
+<h4 style="color: #58a6ff; margin-top: 0;">🖥️ Software Development</h4>
+<ul style="color: #c9d1d9;">
+<li>Junior Java Developer</li>
+<li>Backend Developer (Spring Boot)</li>
+<li>Software Engineering Intern</li>
+<li>Full-Stack Developer</li>
+<li>API Developer</li>
+</ul>
+</div>
+
+<div style="background: #161b22; padding: 1.5rem; border-radius: 8px;">
+<h4 style="color: #58a6ff; margin-top: 0;">📊 Data Engineering</h4>
+<ul style="color: #c9d1d9;">
+<li>Junior Data Engineer</li>
+<li>Data Engineering Intern</li>
+<li>ETL Developer</li>
+<li>Data Analyst (Technical)</li>
+<li>Business Intelligence Roles</li>
+</ul>
+</div>
+
+<div style="background: #161b22; padding: 1.5rem; border-radius: 8px;">
+<h4 style="color: #58a6ff; margin-top: 0;">📍 Preferences</h4>
+<ul style="color: #c9d1d9;">
+<li>Johannesburg, SA (Primary)</li>
+<li>Remote Positions (Open)</li>
+<li>Full-time or Contract</li>
+<li>Immediate Availability</li>
+<li>Learning-Focused Environments</li>
+</ul>
+</div>
+
+</div>
+
+</div>
+
+---
+
+## 📞 **CONTACT & CONNECT**
+
+<div style="background: #0d1117; padding: 2rem; border-radius: 10px; text-align: center; border: 1px solid #30363d;">
+
+<h3 style="color: #58a6ff; margin-top: 0;">🤝 LET'S CONNECT</h3>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin: 1.5rem 0;">
+<a href="mailto:muzisitsha@gmail.com" style="text-decoration: none;">
+<div style="background: #3498db; color: white; padding: 0.8rem 1.5rem; border-radius: 5px; display: inline-flex; align-items: center; gap: 0.5rem;">
+📧 Email
+</div>
+</a>
+<a href="https://www.linkedin.com/in/muziwakhe-sitsha-31478b375" style="text-decoration: none;">
+<div style="background: #0077b5; color: white; padding: 0.8rem 1.5rem; border-radius: 5px; display: inline-flex; align-items: center; gap: 0.5rem;">
+💼 LinkedIn
+</div>
+</a>
+<a href="tel:+27613253665" style="text-decoration: none;">
+<div style="background: #27ae60; color: white; padding: 0.8rem 1.5rem; border-radius: 5px; display: inline-flex; align-items: center; gap: 0.5rem;">
+📱 Phone: +27 61 325 3665
+</div>
+</a>
+</div>
+
+### **📬 Contact Details**
+<div style="text-align: left; max-width: 600px; margin: 0 auto; color: #c9d1d9;">
+• Email: [muzisitsha@gmail.com](mailto:muzisitsha@gmail.com) - Best for formal opportunities<br>
+• LinkedIn: [Muziwakhe Sitsha](https://www.linkedin.com/in/muziwakhe-sitsha-31478b375) - Professional networking<br>
+• Phone: [+27 61 325 3665](tel:+27613253665) - Scheduled interviews<br>
+• Location: Johannesburg, South Africa<br>
+• Availability: Immediate for suitable roles<br>
+• Response Time: Within 24 hours
+</div>
+
+</div>
+
+---
+
+<div align="center" style="margin-top: 2rem; padding: 1.5rem; background: linear-gradient(135deg, #0d1117 0%, #1c2128 100%); border-radius: 8px;">
+
+### **🌟 "The expert in anything was once a beginner." - Helen Hayes**
+
+### **🚀 Ready to contribute, learn, and grow as a professional developer!**
+
+### **⭐ Thank you for visiting my profile! Feel free to connect. ⭐**
+
 </div>
