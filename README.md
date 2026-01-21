@@ -15,7 +15,7 @@
   <a href="tel:+27613253665" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/📱_PHONE-0613253665-27AE60?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" style="margin: 0.3rem;">
   </a>
-  <a href="https://personal-portfolio1-delta.vercel.app/" style="text-decoration: none;">
+  <a href="https://splendorous-moxie-7b67c9.netlify.app/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/🌐_PORTFOLIO-Live_Website-9B59B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" style="margin: 0.3rem;">
   </a>
   <a href="https://github.com/MuziSitsha" style="text-decoration: none;">
