@@ -32,7 +32,7 @@
 <div style="background: #000000; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #3498db; margin: 1rem 0; border: 1px solid #1a1a1a;">
   
 <p style="color: #ffffff; line-height: 1.6;">
-I'm a passionate <strong style="color: #3498db;">Software Developer</strong> specializing in <strong style="color: #3498db;">Java backend development</strong> with Spring Boot, based in Johannesburg, South Africa. I'm actively expanding my skills into <strong style="color: #3498db;">Data Engineering</strong> to build comprehensive, scalable technical solutions.
+I'm a passionate <strong style="color: #3498db;">Software Developer</strong> specializing in <strong style="color: #3498db;">Java backend development</strong> with Spring Boot, based in Johannesburg, South Africa. I'm actively expanding my skills into <strong style="color: #3498db;">AI/ML Engineering</strong> to build comprehensive, scalable technical solutions.
 </p>
 
 <p style="color: #3498db; font-style: italic; border-left: 3px solid #3498db; padding-left: 1rem; margin: 1rem 0;">
@@ -58,10 +58,10 @@ I'm a passionate <strong style="color: #3498db;">Software Developer</strong> spe
 <div style="background: #0a0a0a; padding: 1rem; border-radius: 8px; border: 1px solid #1a1a1a;">
 <h4 style="color: #3498db; margin-top: 0; border-bottom: 2px solid #3498db; padding-bottom: 0.5rem;">📊 EXPANDING SKILLS</h4>
 <ul style="color: #ffffff; list-style: none; padding-left: 0;">
-<li>📚 Data Engineering Principles</li>
-<li>📚 Python for Data Processing</li>
-<li>📚 Cloud Infrastructure (AWS)</li>
-<li>📚 ETL Pipeline Design</li>
+<li>📚  AI/ML Engineering Principles</li>
+<li>📚  Python for Machine Learning & Data Science</li>
+<li>📚  MLOps & AI Cloud Infrastructure (AWS)</li>
+<li>📚  Machine Learning Pipeline Design</li>
 </ul>
 </div>
 
@@ -133,7 +133,7 @@ I'm a passionate <strong style="color: #3498db;">Software Developer</strong> spe
 <h4 style="color: #ffffff; margin-top: 0;">🎯 CURRENT FOCUS</h4>
 <div style="color: #ffffff; text-align: left; padding-left: 1rem;">
 • 🚀 Project Improvements<br>
-• 📊 Data Engineering<br>
+• 📊 AI/ML Engineering<br>
 • 🌐 Portfolio Development<br>
 • 🔧 Tech Exploration
 </div>
@@ -289,7 +289,7 @@ Building foundational data engineering skills through practical projects and con
 <div style="background: #0a0a0a; padding: 1.5rem; border-radius: 8px; border: 1px solid #1a1a1a;">
 <h4 style="color: #3498db; margin-top: 0;">🖥️ SOFTWARE DEVELOPMENT</h4>
 <ul style="color: #ffffff; list-style: none; padding-left: 0;">
-<li> Junior Java Developer</li>
+<li> Junior Developer</li>
 <li> Backend Developer (Spring Boot)</li>
 <li> Software Engineering Intern</li>
 <li> Full-Stack Developer</li>
@@ -298,12 +298,11 @@ Building foundational data engineering skills through practical projects and con
 </div>
 
 <div style="background: #0a0a0a; padding: 1.5rem; border-radius: 8px; border: 1px solid #1a1a1a;">
-<h4 style="color: #3498db; margin-top: 0;">📊 DATA ENGINEERING</h4>
+<h4 style="color: #3498db; margin-top: 0;">📊 AI/ML Engineer</h4>
 <ul style="color: #ffffff; list-style: none; padding-left: 0;">
-<li> Junior Data Engineer</li>
-<li> Data Engineering Intern</li>
-<li> ETL Developer</li>
-<li> Data Analyst (Technical)</li>
+<li> Junior AI/ML Engineer</li>
+<li> AI/ML Engineering Intern</li>
+<li> AI/ML Tester (Technical)</li>
 <li> Business Intelligence Roles</li>
 </ul>
 </div>
