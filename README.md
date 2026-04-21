@@ -1,7 +1,7 @@
 <div align="center" style="background: #000000; padding: 2rem; border-radius: 10px; border: 1px solid #3498db;">
 
 <!-- Professional Header with Black Background & Blue Text -->
-<h1 style="color: #3498db; font-size: 2.5rem; margin-bottom: 0.5rem; font-family: 'Segoe UI', Arial, sans-serif;">MUZIWAKHE SITSHA</h1>
+<h1 style="color: #3498db; font-size: 2.5rem; margin-bottom: 0.5rem; font-family: 'Segoe UI', Arial, sans-serif;">MUZIWAKHE Kulungile SITSHA</h1>
 <h3 style="color: #ffffff; font-weight: 400; margin-top: 0; font-family: 'Segoe UI', Arial, sans-serif;">AI/ML Engineer | Software Development | ETL Pipelines</h3>
 
 <!-- Contact Badges with Blue Accents -->
